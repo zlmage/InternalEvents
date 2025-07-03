@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nemetschek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab346392689393f90246c8a6e7535bf4cf52d029")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f5bb49de670ebce98184c085790bafb0a9b6e25")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nemetschek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nemetschek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
