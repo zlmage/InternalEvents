@@ -64,3 +64,20 @@ bld/
 
 .vs/
 
+
+/Nemetschek/[Dd]ebug/
+/Nemetschek/[Dd]ebugPublic/
+/Nemetschek/[Rr]elease/
+/Nemetschek/[Rr]eleases/
+/Nemetschek/x64/
+/Nemetschek/x86/
+/Nemetschek/[Aa][Rr][Mm]/
+/Nemetschek/[Aa][Rr][Mm]64/
+/Nemetschek/bld/
+/Nemetschek/[Bb]in/
+/Nemetschek/[Oo]bj/
+/Nemetschek/[Ll]og/
+/Nemetschek/[Aa]ssetStore/
+/Nemetschek/.vs/
+
+/Nemetschek/obj/
