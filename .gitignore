@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NemetschekInternalEvents
+/.vs/NemetschekInternalEvents/CopilotIndices/17.14.670.39694
+/.vs/NemetschekInternalEvents/CopilotIndices/17.14.670.39694/CodeChunks.db
+/.vs/NemetschekInternalEvents/CopilotIndices/17.14.670.39694/CodeChunks.db-shm
+/.vs/NemetschekInternalEvents/CopilotIndices/17.14.670.39694/CodeChunks.db-wal
+/.vs/NemetschekInternalEvents/CopilotIndices/17.14.670.39694/SemanticSymbols.db
+/.vs/NemetschekInternalEvents/CopilotIndices/17.14.670.39694/SemanticSymbols.db-shm
+/.vs/NemetschekInternalEvents/CopilotIndices/17.14.670.39694/SemanticSymbols.db-wal
+/.vs/NemetschekInternalEvents/FileContentIndex
+/.vs/NemetschekInternalEvents/FileContentIndex/33495e46-ae6f-4565-8b96-181d7507aae5.vsidx
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
