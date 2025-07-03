@@ -5,3 +5,10 @@
 /.vs/Nemetschek/FileContentIndex
 /.vs/Nemetschek/FileContentIndex/5fc2ea6c-f848-4e89-b343-aa3813b9f6db.vsidx
 /.vs/*
+/Nemetschek/bin/*
+/Nemetschek/obj/*
+/Nemetschek/obj/Debug/net8.0/*
+
+/Nemetschek/obj/Debug/net8.0/Nemetschek.AssemblyInfo.cs
+/Nemetschek/obj/Debug/net8.0/Nemetschek.AssemblyInfoInputs.cache
+/Nemetschek/obj/Debug/net8.0/rpswa.dswa.cache.json
